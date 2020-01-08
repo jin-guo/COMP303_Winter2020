@@ -6,7 +6,7 @@
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Class Time    | WF 2:35 pm - 3:55 pm (No class recordings) | 
 | Location      | Strathcona Anatomy & Dentistry M-1  |
-| Office Hour   | Instructor: Wednesday 9am-10am, MC328 <br> TA: [See below](#TA-Office/Lab-Hours) |
+| Office Hour   | Instructor: Wednesday 9am-10am, MC328 <br> TA: [See below](#TA-Office-and-Lab-Hours) |
 | Discussion Forum | [Piazza link](http://piazza.com/mcgill.ca/winter2020/comp303) |
 
 
@@ -49,12 +49,22 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 | Meng Cao | meng.cao@mail.mcgill.ca |
 | Fuyuan Lyu | fuyuan.lyu@mail.mcgill.ca |
 | Srinivas Venkattaramanujam | srinivas.venkattaramanujam@mail.mcgill.ca |
-|Alison Li | alison.li2@mail.mcgill.ca |
-|Aaron Sossin | aaron.sossin@mail.mcgill.ca |
-|Eric Liu |	eric.liu2@mail.mcgill.ca |
+| Alison Li | alison.li2@mail.mcgill.ca |
+| Aaron Sossin | aaron.sossin@mail.mcgill.ca |
+| Eric Liu |	eric.liu2@mail.mcgill.ca |
 
-## TA Office/Lab Hours
-TBD
+## TA Office and Lab Hours
+This is tentative.
+
+| Time | TA |
+| --- |---|
+| Monday 10 am to noon | Fuyuan | 
+| Tuesday 10 am to noon | Meng |
+| Tuesday 1:30 pm 3:30 pm | Eric |
+| Wednesday 4:30 to 6:30 pm | Srinivas |
+| Thursday 9am to 11 am | Aaron |
+| Thursday noon to 2 pm | Deeksha |
+| Friday noon to 2 pm | Alison |
 
 ## Assessment and Evaluation:
 
@@ -74,7 +84,7 @@ TBD
 - Missing any of the lab test sessions, midterm or final exam will result zero grade for that assessment.
 - Any form of plagiarism, cheating is strictly banned during midterm or final exam. Integrity is crucial to this course and your future career. Any violation against academic integrity will be taken very seriously. For more information, please refer [here](https://www.mcgill.ca/students/srr/academicrights/integrity).
 
-## Tentative Schedule
+## Schedule (Tentative)
 *Subject to minor adjustments*
 
 | Lecture | Date | Content | Reading |
