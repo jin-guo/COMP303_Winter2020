@@ -54,7 +54,8 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 | Eric Liu |	eric.liu2@mail.mcgill.ca |
 
 ## TA Office and Lab Hours
-This is tentative.
+Location: TR 3120
+The schedule is tentative.
 
 | Time | TA |
 | --- |---|
@@ -71,7 +72,7 @@ This is tentative.
 |  Assessment Method | When | Weight |
 | :---: | :---: | :---: |
 |  Participation | in class + online | 10% |
-|  Lab tests | 4 sessions (Location TBD) | 20% |
+|  Lab tests | 4 sessions (Location TR 3120) | 20% |
 |  Midterm | 6:15 pm - 8: 15 pm, Feb 27th (LEA 132)  | 30% |
 |  Final | TBD | 40% |
 
