@@ -19,7 +19,7 @@ After completing this course successful students should be able to:
 
 - Properly explain and apply general Design Principles (separation of concerns, encapsulation, substitutability, interface segregation, etc.) and important Design patterns;
 - Properly explain and apply design techniques such as UML Diagrams and Design by Contract;
-- Effective use programming language mechanisms such as exception handling, concurrency and synchronization, reflection;
+- Effective use programming language mechanisms such as exception handling and reflection;
 - Analyze and evaluate the quality of design solutions; correctly identify design smells and apply appropriate refactoring to eliminate them;
 - Gain experience on software development tools such as modern IDEs, automatic documentation and testing tools, and version control system.
 
