@@ -6,8 +6,8 @@
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Class Time    | WF 2:35 pm - 3:55 pm (No class recordings) | 
 | Location      | Strathcona Anatomy & Dentistry M-1  |
-| Office Hour   | Instructor: Wednesday 9am-10am, MC328 <br> TA: TBD |
-| Discussion Forum | [Piazza link](piazza.com/mcgill.ca/winter2020/comp303) |
+| Office Hour   | Instructor: Wednesday 9am-10am, MC328 <br> TA: [See below](#TA-Office/Lab-Hours) |
+| Discussion Forum | [Piazza link](http://piazza.com/mcgill.ca/winter2020/comp303) |
 
 
 ## Description
@@ -53,7 +53,7 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 |Aaron Sossin | aaron.sossin@mail.mcgill.ca |
 |Eric Liu |	eric.liu2@mail.mcgill.ca |
 
-## TA Office Hours
+## TA Office/Lab Hours
 TBD
 
 ## Assessment and Evaluation:
