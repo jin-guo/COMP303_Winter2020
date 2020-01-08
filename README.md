@@ -90,7 +90,7 @@ The schedule is tentative.
 
 | Lecture | Date | Content | Reading |
 | :---: |:---:| :---: | :---: |
-|1	|  8 Jan  | Introduction | |
+|1	|  8 Jan  | Introduction | SD: Chapter 1|
 |2	|  10 Jan | Encapsulation - 1 | |
 |3	|  15 Jan | Encapsulation - 2 | |
 |4	|  17 Jan | Types and Polymorphism - 1 | |
