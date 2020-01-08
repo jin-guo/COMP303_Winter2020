@@ -116,3 +116,6 @@ The schedule is tentative.
 |23 |  3 Apr | Design for Usability | |
 |24 |  8 Apr | Software Engineering Ethics | |
 |25 |  14 Apr | Wrap up | |
+
+## Survey links
+[Class 1](https://forms.gle/EjAER6EqFZ1iH6Zq8)
