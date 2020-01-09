@@ -55,17 +55,15 @@ COMP 206 and COMP 250. Please also perform the [self assessment](https://github.
 
 ## TA Office and Lab Hours
 Location: TR 3120
-The schedule is tentative.
 
 | Time | TA |
 | --- |---|
-| Monday 10 am to noon | Fuyuan | 
-| Tuesday 10 am to noon | Meng |
-| Tuesday 1:30 pm 3:30 pm | Eric |
-| Wednesday 4:30 to 6:30 pm | Srinivas |
-| Thursday 9am to 11 am | Aaron |
-| Thursday noon to 2 pm | Deeksha |
-| Friday noon to 2 pm | Alison |
+| Monday 10 am to 12 pm | Fuyuan | 
+| Tuesday 10 am to 12 pm | Meng |
+| Tuesday  12 pm to 2 pm | Aaron |
+| Wednesday 10:30 amto 12:30 pm | Eric & Srinivas |
+| Thursday 1 pm to 3 pm | Deeksha |
+| Friday 8:30 am to 10:30 am | Alison |
 
 ## Assessment and Evaluation:
 
