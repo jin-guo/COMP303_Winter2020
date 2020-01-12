@@ -63,7 +63,7 @@ Location: TR 3120
 | Tuesday  12 pm to 2 pm | Aaron |
 | Wednesday 10:30 amto 12:30 pm | Eric & Srinivas |
 | Thursday 1 pm to 3 pm | Deeksha |
-| Friday 8:30 am to 10:30 am | Alison |
+| Friday 8 am to 10 am | Alison |
 
 ## Assessment and Evaluation:
 
