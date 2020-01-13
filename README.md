@@ -70,7 +70,7 @@ Location: TR 3120
 |  Assessment Method | When | Weight |
 | :---: | :---: | :---: |
 |  Participation | in class + online | 10% |
-|  Lab tests | 4 sessions (Location TR 3120) | 20% |
+|  Lab tests | 4 sessions (Location TR 3120. Schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1dvCugSYc8ivpxAiW5GoW0hCQNfIS8NQWlB_C8SYFWEw/edit?usp=sharing)) | 20% |
 |  Midterm | 6:15 pm - 8: 15 pm, Feb 27th (LEA 132)  | 30% |
 |  Final | TBD | 40% |
 
