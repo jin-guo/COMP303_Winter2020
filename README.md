@@ -88,7 +88,7 @@ Location: TR 3120
 
 | Lecture | Date | Content | Reading | Exercise |
 | :---: |:---:| :---: | :---: | :---: |
-|1	|  8 Jan  | Introduction | SD: Chapter 1| [Exercise in SD: Chapter 1](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter1.md) |
+|1	|  8 Jan  | Introduction | SD: Chapter 1| [Exercise 0](https://github.com/jin-guo/COMP303_Winter2020/blob/master/M0-Exercise.md) <br>[Exercise in SD: Chapter 1](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter1.md) |
 |2	|  10 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md)|
 |3	|  15 Jan | Encapsulation - 2 | EJ: Item 15-17  | [Exercise 6-9 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) |
 |4	|  17 Jan | Types and Polymorphism - 1 | | |
