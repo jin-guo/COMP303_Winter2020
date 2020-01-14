@@ -86,34 +86,34 @@ Location: TR 3120
 ## Schedule (Tentative)
 *Subject to minor adjustments*
 
-| Lecture | Date | Content | Reading |
-| :---: |:---:| :---: | :---: |
-|1	|  8 Jan  | Introduction | SD: Chapter 1|
-|2	|  10 Jan | Encapsulation - 1 | |
-|3	|  15 Jan | Encapsulation - 2 | |
-|4	|  17 Jan | Types and Polymorphism - 1 | |
-|5	|  22 Jan | Types and Polymorphism - 2 | |
-|6	|  24 Jan | Types and Polymorphism - 3 | |
-|7	|  29 Jan | Object State - 1 | |
-|8	|  31 Jan | Object State - 2 | |
-|9	|  05 Feb | Defensive design - 1 | |
-|10  |  07 Feb | Defensive design - 2 | |
-|11	|  12 Feb | *Unit Testing - 1* (Instructor Traveling)| |
-|12	|  14 Feb | *Unit Testing - 2* (Instructor Traveling) | |
-|13	|  19 Feb | Composition - 1 | |
-|14	|  21 Feb | Composition - 2| |
-|15	|  26 Feb | Content Review (by TAs) | |
-|M|  27 Feb | Midterm (no class on 28th) | |
-|16	|  11 Mar | Composition - 3 | |
-|17	|  13 Mar | Inheritance - 1 | |
-|18	|  18 Mar | Inheritance - 2 | |
-|19 |  20 Mar | Inversion of Control - 1 | |
-|20 |  25 Mar | Inversion of Control - 2 | |
-|21 |  27 Mar | Inversion of Control - 3 | |
-|22 |  1 Apr | Refactoring | |
-|23 |  3 Apr | Design for Usability | |
-|24 |  8 Apr | Software Engineering Ethics | |
-|25 |  14 Apr | Wrap up | |
+| Lecture | Date | Content | Reading | Exercise |
+| :---: |:---:| :---: | :---: | :---: |
+|1	|  8 Jan  | Introduction | SD: Chapter 1| [Exercise for SD: Chapter 1](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter1.md) |
+|2	|  10 Jan | Encapsulation - 1 | SD: Chapter 1, <br>EJ: Item 15-17 | |
+|3	|  15 Jan | Encapsulation - 2 | | |
+|4	|  17 Jan | Types and Polymorphism - 1 | | |
+|5	|  22 Jan | Types and Polymorphism - 2 | | |
+|6	|  24 Jan | Types and Polymorphism - 3 | | |
+|7	|  29 Jan | Object State - 1 | | |
+|8	|  31 Jan | Object State - 2 | | |
+|9	|  05 Feb | Defensive design - 1 | | |
+|10  |  07 Feb | Defensive design - 2 | | |
+|11	|  12 Feb | *Unit Testing - 1* (Instructor Traveling)| | |
+|12	|  14 Feb | *Unit Testing - 2* (Instructor Traveling) | | |
+|13	|  19 Feb | Composition - 1 | | |
+|14	|  21 Feb | Composition - 2| | |
+|15	|  26 Feb | Content Review (by TAs) | | |
+|M|  27 Feb | Midterm (no class on 28th) | | |
+|16	|  11 Mar | Composition - 3 | | |
+|17	|  13 Mar | Inheritance - 1 | | |
+|18	|  18 Mar | Inheritance - 2 | | |
+|19 |  20 Mar | Inversion of Control - 1 | | |
+|20 |  25 Mar | Inversion of Control - 2 | | |
+|21 |  27 Mar | Inversion of Control - 3 | | |
+|22 |  1 Apr | Refactoring | | |
+|23 |  3 Apr | Design for Usability | | |
+|24 |  8 Apr | Software Engineering Ethics | | |
+|25 |  14 Apr | Wrap up | | |
 
 ## Survey links
 [Class 1](https://forms.gle/EjAER6EqFZ1iH6Zq8)
