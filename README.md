@@ -32,7 +32,7 @@ After completing this course successful students should be able to:
   - [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/), by Joshua Bloch, Addison-Wesley Professional.
 
 - **Sample Projects:** 
-  - [Inclass demos](https://github.com/jin-guo/COMP303_CodeDemos)
+  - [Inclass demos](https://github.com/jin-guo/COMP303_CodeDemos);
   - [Minesweeper](https://github.com/prmr/Minesweeper);
   - [Solitaire](https://github.com/prmr/Solitaire).
 
