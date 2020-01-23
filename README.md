@@ -92,9 +92,9 @@ Location: TR 3120
 |1	|  8 Jan  | Introduction | SD: Chapter 1| [Exercise 0](https://github.com/jin-guo/COMP303_Winter2020/blob/master/M0-Exercise.md) <br>[Exercise in SD: Chapter 1](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter1.md) |
 |2	|  10 Jan | Encapsulation - 1 | SD: Chapter 2 | [Exercise 1-5 in SD: Chapter 2](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md)|
 |3	|  15 Jan | Encapsulation - 2 | EJ: Item 15-17  | [Exercise 6-9 in SD: Chapter 2 <br>(omit the exercise related to Design by Contract and Assertion which will be introduced later in the course)](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter2.md) |
-|4	|  17 Jan | Types and Polymorphism - 1 | SD: Chapter 3 | |
-|5	|  22 Jan | Types and Polymorphism - 2 | | |
-|6	|  24 Jan | Types and Polymorphism - 3 | | |
+|4	|  17 Jan | Types and Polymorphism - 1 | SD: Chapter 3 |  [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
+|5	|  22 Jan | Types and Polymorphism - 2 | |  [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
+|6	|  24 Jan | Types and Polymorphism - 3 | |  [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
 |7	|  29 Jan | Object State - 1 | | |
 |8	|  31 Jan | Object State - 2 | | |
 |9	|  05 Feb | Defensive design - 1 | | |
