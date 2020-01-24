@@ -118,3 +118,5 @@ Location: TR 3120
 
 ## Survey links
 [Class 1](https://forms.gle/EjAER6EqFZ1iH6Zq8)
+[Jan 24 - Strategy Pattern](https://forms.gle/kcu86qGR1RiqvTdZ8)
+
