@@ -121,3 +121,5 @@ Location: TR 3120
 
 [Jan 24 - Strategy Pattern](https://forms.gle/kcu86qGR1RiqvTdZ8)
 
+[Jan 29 - Object Equality](https://forms.gle/DwSGkPwSeb3YpXnA8)
+
