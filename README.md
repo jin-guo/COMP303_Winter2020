@@ -95,8 +95,8 @@ Location: TR 3120
 |4	|  17 Jan | Types and Polymorphism - 1 | SD: Chapter 3 |  [Exercise 1-2 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
 |5	|  22 Jan | Types and Polymorphism - 2 | EJ: Item 14 |  [Exercise 3-6 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
 |6	|  24 Jan | Types and Polymorphism - 3 | |  [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
-|7	|  29 Jan | Object State - 1 | SD: Chapter 3, EJ: Item 10, 11 | |
-|8	|  31 Jan | Object State - 2 | | |
+|7	|  29 Jan | Object State - 1 | SD: Chapter 3, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
+|8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
 |9	|  05 Feb | Defensive design - 1 | | |
 |10  |  07 Feb | Defensive design - 2 | | |
 |11	|  12 Feb | *Unit Testing - 1* (Instructor Traveling)| | |
