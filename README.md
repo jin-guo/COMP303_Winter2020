@@ -123,3 +123,5 @@ Location: TR 3120
 
 [Jan 29 - Object Equality](https://forms.gle/DwSGkPwSeb3YpXnA8)
 
+[Jan 31 - Flyweight and Singleton](https://forms.gle/SvhT28ktHACYs8hS9)
+
