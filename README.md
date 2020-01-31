@@ -99,8 +99,8 @@ Location: TR 3120
 |8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
 |9	|  05 Feb | Defensive design - 1 | | |
 |10  |  07 Feb | Defensive design - 2 | | |
-|11	|  12 Feb | *Unit Testing - 1* (Instructor Traveling)| | |
-|12	|  14 Feb | *Unit Testing - 2* (Instructor Traveling) | | |
+|11	|  12 Feb | Unit Testing - 1 (by TAs)| | |
+|12	|  14 Feb | Unit Testing - 2 (by TAs) | | |
 |13	|  19 Feb | Composition - 1 | | |
 |14	|  21 Feb | Composition - 2| | |
 |15	|  26 Feb | Content Review (by TAs) | | |
