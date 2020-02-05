@@ -97,8 +97,8 @@ Location: TR 3120
 |6	|  24 Jan | Types and Polymorphism - 3 | |  [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
 |7	|  29 Jan | Object State - 1 | SD: Chapter 3, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
 |8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
-|9	|  05 Feb | Defensive design - 1 | | |
-|10  |  07 Feb | Defensive design - 2 | | |
+|9	|  05 Feb | Design for Robustness - 1 | | |
+|10  |  07 Feb | Design for Robustness - 2 | | |
 |11	|  12 Feb | Unit Testing - 1 (by TAs)| | |
 |12	|  14 Feb | Unit Testing - 2 (by TAs) | | |
 |13	|  19 Feb | Composition - 1 | | |
