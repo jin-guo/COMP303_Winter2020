@@ -25,11 +25,11 @@ After completing this course successful students should be able to:
 
 ## Reference Material
 - **Required Textbook**: 
-  - [Introduction to Software Design with Java](https://link.springer.com/book/10.1007/978-3-030-24094-3). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
+  - [Introduction to Software Design with Java (referred to as SD in the schedule)](https://link.springer.com/book/10.1007/978-3-030-24094-3). The electronic version of this book is **free** for McGill users with library access. For those who optionally want a print version, the [Paragraph Bookstore](http://paragraphbooks.com/) will stock a limited number of copies;
   - [Companion Website](https://github.com/prmr/DesignBook) for source code, exercises, and solutions.
 - **Other Recommended References:** 
-  - [The Pragmatic Programmer](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/), by David Thomas, Andrew Hunt, Addison-Wesley Professional;
-  - [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/), by Joshua Bloch, Addison-Wesley Professional.
+  - [The Pragmatic Programmer (referred to as PP)](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/), by David Thomas, Andrew Hunt, Addison-Wesley Professional;
+  - [Effective Java (referred to as EJ)](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/), by Joshua Bloch, Addison-Wesley Professional.
 
 - **Sample Projects:** 
   - [Inclass demos](https://github.com/jin-guo/COMP303_CodeDemos);
@@ -97,8 +97,8 @@ Location: TR 3120
 |6	|  24 Jan | Types and Polymorphism - 3 | |  [Exercise 7-12 in SD: Chapter 3](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter3.md) |
 |7	|  29 Jan | Object State - 1 | SD: Chapter 3, EJ: Item 10, 11 | [Exercise 1-5 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
 |8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
-|9	|  05 Feb | Design for Robustness - 1 | | |
-|10  |  07 Feb | Design for Robustness - 2 | | |
+|9	|  05 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25| |
+|10  |  07 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | |
 |11	|  12 Feb | Unit Testing - 1 (by TAs)| | |
 |12	|  14 Feb | Unit Testing - 2 (by TAs) | | |
 |13	|  19 Feb | Composition - 1 | | |
