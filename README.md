@@ -99,8 +99,8 @@ Location: TR 3120
 |8	|  31 Jan | Object State - 2 | EJ: Item 1, 3 | [Exercise 6-11 in SD: Chapter 4](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter4.md)|
 |9	|  05 Feb | Design for Robustness - 1 | PP: Topic 23, 24, 25| |
 |10  |  07 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | |
-|11	|  12 Feb | Unit Testing - 1 (by TAs)| | |
-|12	|  14 Feb | Unit Testing - 2 (by TAs) | | |
+|11	|  12 Feb | Unit Testing - 1 (by TAs)|  SD: Chapter 5  | [Exercise 1-3 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
+|12	|  14 Feb | Unit Testing - 2 (by TAs) | | [Exercise 4-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
 |13	|  19 Feb | Composition - 1 | | |
 |14	|  21 Feb | Composition - 2| | |
 |15	|  26 Feb | Content Review (by TAs) | | |
