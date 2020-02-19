@@ -101,7 +101,7 @@ Location: TR 3120
 |10  |  07 Feb | Design for Robustness - 2 | EJ: Item 69 - 72 | |
 |11	|  12 Feb | Unit Testing - 1 (by TAs)|  SD: Chapter 5  | [Exercise 1-3 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
 |12	|  14 Feb | Unit Testing - 2 (by TAs) | | [Exercise 4-11 in SD: Chapter 5](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter5.md) |
-|13	|  19 Feb | Composition - 1 | SD: Chapter 6 | |
+|13	|  19 Feb | Composition - 1 | SD: Chapter 6 | Exercise 1-5 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) |
 |14	|  21 Feb | Composition - 2| | |
 |15	|  26 Feb | Content Review (by TAs) | | |
 |M|  27 Feb | Midterm (no class on 28th) | | |
