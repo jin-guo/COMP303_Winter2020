@@ -125,3 +125,5 @@ Location: TR 3120
 
 [Jan 31 - Flyweight and Singleton](https://forms.gle/SvhT28ktHACYs8hS9)
 
+[Feb 19 - Composite](https://forms.gle/HYoDKD8YoZFPx6mr8)
+
