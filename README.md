@@ -105,7 +105,7 @@ Location: TR 3120
 |14	|  21 Feb | Composition - 2| | |
 |15	|  26 Feb | Content Review (by TAs) | | |
 |M|  27 Feb | Midterm (no class on 28th) | | |
-|16	|  11 Mar | Composition - 3 | | |
+|16	|  11 Mar | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) |
 |17	|  13 Mar | Inheritance - 1 | | |
 |18	|  18 Mar | Inheritance - 2 | | |
 |19 |  20 Mar | Inversion of Control - 1 | | |
