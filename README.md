@@ -66,14 +66,14 @@ Location: TR 3120
 | Thursday 1 pm to 3 pm | Deeksha |
 | Friday 8 am to 10 am | Alison |
 
-## Assessment and Evaluation:
+## Assessment and Evaluation (Updated):
 
 |  Assessment Method | When | Weight |
 | :---: | :---: | :---: |
 |  Participation | in class + online | 10% |
-|  Lab tests | 4 sessions (Location TR 3120. Schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1dvCugSYc8ivpxAiW5GoW0hCQNfIS8NQWlB_C8SYFWEw/edit?usp=sharing)) | 20% |
+|  Lab tests | 3 sessions (Location TR 3120 or Online. Schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1dvCugSYc8ivpxAiW5GoW0hCQNfIS8NQWlB_C8SYFWEw/edit?usp=sharing)) | 20% |
 |  Midterm | 6:15 pm - 8: 15 pm, Feb 27th (LEA 132)  | 30% |
-|  Final | TBD | 40% |
+|  Final | Takehome. Release on Apr 27th | 40% |
 
 
  
@@ -106,15 +106,15 @@ Location: TR 3120
 |15	|  26 Feb | Content Review (by TAs) | | |
 |M|  27 Feb | Midterm (no class on 28th) | | |
 |16	|  11 Mar | Composition - 3 | SD: Chapter 6 | [Exercise 6-19 in SD: Chapter 6](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md) |
-|17	|  13 Mar | Inheritance - 1 | | |
-|18	|  18 Mar | Inheritance - 2 | | |
-|19 |  20 Mar | Inversion of Control - 1 | | |
-|20 |  25 Mar | Inversion of Control - 2 | | |
-|21 |  27 Mar | Inversion of Control - 3 | | |
-|22 |  1 Apr | Refactoring | | |
-|23 |  3 Apr | Design for Usability | | |
-|24 |  8 Apr | Software Engineering Ethics | | |
-|25 |  14 Apr | Wrap up | | |
+|17	|  13 Mar | Univerity Close | | |
+|18	|  18 Mar | Univerity Close | | |
+|19 |  20 Mar | Univerity Close | | |
+|20 |  25 Mar | Univerity Close | | |
+|21 |  27 Mar | Univerity Close | | |
+|22 |  1 Apr | Inheritance - 1 | | |
+|23 |  3 Apr | Inheritance - 2 | | |
+|24 |  8 Apr | Inversion of Control - 1 | | |
+|25 |  14 Apr | Inversion of Control - 2 | | |
 
 ## Survey links
 [Class 1](https://forms.gle/EjAER6EqFZ1iH6Zq8)
