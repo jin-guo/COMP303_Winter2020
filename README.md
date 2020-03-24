@@ -73,7 +73,7 @@ Location: TR 3120
 |  Participation | in class + online | 10% |
 |  Lab tests | 3 sessions (Location TR 3120 or Online. Schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1dvCugSYc8ivpxAiW5GoW0hCQNfIS8NQWlB_C8SYFWEw/edit?usp=sharing)) | 20% |
 |  Midterm | 6:15 pm - 8: 15 pm, Feb 27th (LEA 132)  | 30% |
-|  Final | Takehome. Release on Apr 27th | 40% |
+|  Final | Takehome. Release on Apr 27th (TBD) | 40% |
 
 
  
