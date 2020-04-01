@@ -111,7 +111,7 @@ Location: TR 3120
 |19 |  20 Mar | Univerity Close | | |
 |20 |  25 Mar | Univerity Close | | |
 |21 |  27 Mar | Univerity Close | | |
-|22 |  1 Apr | Inheritance - 1 | | |
+|22 |  1 Apr | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| |
 |23 |  3 Apr | Inheritance - 2 | | |
 |24 |  8 Apr | Inversion of Control - 1 | | |
 |25 |  14 Apr | Inversion of Control - 2 | | |
