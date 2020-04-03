@@ -112,7 +112,7 @@ Location: TR 3120
 |20 |  25 Mar | Univerity Close | | |
 |21 |  27 Mar | Univerity Close | | |
 |22 |  1 Apr | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) |
-|23 |  3 Apr | Inheritance - 2 | | |
+|23 |  3 Apr | Inheritance - 2 | SD: Chapter 7, EJ:Item 18| [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md)|
 |24 |  8 Apr | Inversion of Control - 1 | | |
 |25 |  14 Apr | Inversion of Control - 2 | | |
 
@@ -130,4 +130,6 @@ Location: TR 3120
 [Feb 21 - Prototype](https://forms.gle/MG1wgD6ubG4TTmuX8)
 
 [Apr 1 - Abstract Class](https://forms.gle/2YKQ92qa6mdQLC1i8)
+
+[Apr 3 - Liskov substitution principle ](https://forms.gle/PkSxFbdPAv58Uqjp6)
 
