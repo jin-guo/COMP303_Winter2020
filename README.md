@@ -133,3 +133,4 @@ Location: TR 3120
 
 [Apr 3 - Liskov substitution principle ](https://forms.gle/PkSxFbdPAv58Uqjp6)
 
+[Apr 8 - Observer ](https://forms.gle/KjS6nfrdS8DizXBA8)
