@@ -113,8 +113,8 @@ Location: TR 3120
 |21 |  27 Mar | Univerity Close | | |
 |22 |  1 Apr | Inheritance - 1 | SD: Chapter 7, EJ:Item 19,20| [Exercise 1-5 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md) |
 |23 |  3 Apr | Inheritance - 2 | SD: Chapter 7, EJ:Item 18| [Exercise 6-10 in SD: Chapter 7](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter7.md)|
-|24 |  8 Apr | Inversion of Control - 1 |SD: Chapter 8| [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)|
-|25 |  14 Apr | Inversion of Control - 2 |SD: Chapter 8| [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)|
+|24 |  8 Apr | Inversion of Control - 1 |SD: Chapter 8 (8.1-8.7)| [Exercise 1-7 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)|
+|25 |  14 Apr | Inversion of Control - 2 |SD: Chapter 8 (8.1-8.7)| [Exercise 9-11 in SD: Chapter 8](https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter8.md)|
 
 ## Survey links
 [Class 1](https://forms.gle/EjAER6EqFZ1iH6Zq8)
